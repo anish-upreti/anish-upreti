@@ -1,4 +1,4 @@
-## Namaste there 👋, I am Anish Upreti.
+## Namaste there 🙏, I am Anish Upreti.
 
 I am an AI, Machine Learning, Deep Learning, Data and Tech Enthusiast. I am here to learn, grow and collaborate.
 
