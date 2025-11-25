@@ -5,7 +5,7 @@ I am an AI, Machine Learning, Deep Learning, Data and Tech Enthusiast. I am here
 ## Updates
 - 🔭 I’m currently working as an AI/ML engineer at Next Wave AI private limited.
 - 🌱 I’m currently rebuilding my foundations and upgrading my skills in AI/ML/DL/Gen AI/backend.
-- 👯 I’m looking to collaborate on ML/DL/GenAI/Data science projects.
+- 👯 I’m ready to collaborate on ML/DL/GenAI/Data science projects that I find interesting.
 - ⚡ Fact: I like music more than coding.
 
 <!--
